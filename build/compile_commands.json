@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hjh/ROSCatkin_WorkSpace/C_plus/build",
+  "command": "/usr/bin/g++   -I../include  -g   -o CMakeFiles/cmake_test.dir/main.cpp.o -c /home/hjh/ROSCatkin_WorkSpace/C_plus/main.cpp",
+  "file": "/home/hjh/ROSCatkin_WorkSpace/C_plus/main.cpp"
+}
+]
